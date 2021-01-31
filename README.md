@@ -5,7 +5,9 @@ Requirements:
 This application runs on local environment.  The required software/framework/api are listed below:
 
 Python - 3.6
+
 Git
+
 Neo4j Desktop
 Virtual Environment
 Flask Framework
